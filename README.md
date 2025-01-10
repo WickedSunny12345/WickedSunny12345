@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @WickedSunny12345
+- 👋 Hi, I’m @Aniket Kumar
 - 👀 I I’m deeply interested in Coding, FileNet, DataCap, Swift, and Blockchain technologies.
 - 🌱  I’m currently working as a Software Engineer, focusing on enterprise content management systems like IBM FileNet and advanced technologies like Blockchain.
 - 💞️ I’m looking to collaborate on exciting projects related to FileNet, Blockchain applications, or innovative software solutions.
